@@ -1,0 +1,18 @@
+[
+  {
+    "Author": "Exora",
+    "Name": "ExCombo",
+    "InternalName": "ExCombo",
+    "AssemblyVersion": "1.8.0.0",
+    "Description": "Design your job rotation as a visual node graph. Flows replace hotbar actions in-game as you build them. Use /excombo to open the editor.",
+    "Punchline": "Node-based job rotation flow editor.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": ["combat", "rotation", "combo", "nodes", "flow"],
+    "RepoUrl": "https://github.com/nixglacie/ExCombo-dist",
+    "IconUrl": "https://raw.githubusercontent.com/nixglacie/ExCombo-dist/main/icon.png",
+    "DownloadLinkInstall": "https://github.com/nixglacie/ExCombo-dist/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/nixglacie/ExCombo-dist/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/nixglacie/ExCombo-dist/releases/latest/download/latest.zip"
+  }
+]
